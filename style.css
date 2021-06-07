@@ -102,6 +102,33 @@ body {
   box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 40px 0 rgb(0 0 0);
 }
 
+/*=============footer section==================== */
+
+#footer .row {
+  background-color: #000;
+height: 250px;
+}
+#footer i {    font-size: 30px;
+  
+  margin-left: 8%;
+  color: white;
+  }
+#footer  .col-md-12 p{
+    color: #ffffff;
+    font-style: italic;
+    margin-left: 50%;
+    margin-top: 6%;
+    font-size: 14px;
+  }
+  
+#footer .col-md-12 span {
+    color: #ffc107;
+    font-style: italic;
+    margin-top: 20%;
+    font-size: 20px;
+    margin-left: 0%;
+  }
+
 
 
 
