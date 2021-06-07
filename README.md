@@ -2,7 +2,7 @@
 #### {My Portfolio}, {2021}
 
 ## Description
-{This is my portfolio. Its a Website you can easily navigate though on you phone,tablet,laptop or desktop computer:No installation whatsoever required.}
+{This is my personal portfolio.It details a brief background about me i.e My Educational Background,Work Experience ,My Interests and Hobbies and Why I love Software Programming. It also contains a few of my projects with the live git gh-pages links.Its a Website you can easily navigate though on you phone,tablet,laptop or desktop computer:No installation whatsoever required.}
 
 ## Technologies Used
 {HTML and CSS}
