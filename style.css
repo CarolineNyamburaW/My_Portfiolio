@@ -58,3 +58,38 @@ body {
 #aboutme .col-md-4{
   background-color: rgb(7, 6, 6);
 }
+
+/*=============myprojects section==================== */
+#myprojects .col-md-12 h2{
+  color: #ffffff;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  text-align: center;
+}
+
+#myprojects  .col-md-4 h2{
+  color: orange;
+  margin-left: 20%;
+}
+#myprojects .row {
+  height: 600px;
+  background-color: #000;
+}
+#myprojects  .col-md-4 span{
+  color: rgb(167, 114, 16);
+  text-align: center;
+}
+#myprojects  .col-md-4 h5{
+  color: orange;
+  margin-bottom: 5%;
+  text-align: center;
+  
+}
+#myprojects  .col-md-4 p{
+  color: #ffffff;
+  font-style: italic;
+  text-align: center;
+}
+
+
+
