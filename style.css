@@ -5,34 +5,48 @@ body {
 /*=============banner section==================== */
 #banner  .col-md-7 h2{
   color: orange;
-  margin-left: 20%;
+  margin-left: 30%;
+  font-weight: bolder;
+  font-size: 60px;
 }
 #banner  .col-md-7 h5{
-  color: #ffffff;
-  margin-left: 20%;
-    margin-top: 15%;
+  color: orange;
+  margin-left: 30%;
+  margin-top: 30%;
+  font-style: italic;
+  font-weight: bolder;
 }
 #banner  .col-md-7 p{
-  color: #ffffff;
-  margin-left: 20%;
+  color: orange;
+  margin-left: 30%;
+  font-style: italic;
+  font-weight: bolder;
 }
 #banner .row {
-  height: 400px;
+  height: 600px;
 }
 #banner .col-md-7 {
   background-color: #000;
 }
 #banner .col-md-5 {
+  
   background-color: orange;
+}
+img {
+  height: 520px;
+  vertical-align: middle;
+  margin-left: -38%;
+  margin-top: -60%;
+
 }
 
 /*=============aboutme section==================== */
 #aboutme  .col-md-12 h2{
-  color: #ffffff;
+  color: orange;
   margin-top: 4%;
-  margin-bottom: 4%;
   text-align: center;
-
+  font-weight: bolder;
+  font-size: 40px;
 }
 #aboutme  .col-md-4 span{
   
@@ -54,6 +68,7 @@ body {
 }
 #aboutme .col-md-12{
   background-color: rgb(7, 6, 6);
+
 }
 #aboutme .col-md-4{
   background-color: rgb(7, 6, 6);
@@ -61,10 +76,13 @@ body {
 
 /*=============myprojects section==================== */
 #myprojects .col-md-12 h2{
-  color: #ffffff;
+  color: orange;
   margin-top: 4%;
   margin-bottom: 4%;
   text-align: center;
+  font-weight: bolder;
+  font-size: 40px;
+ 
 }
 
 #myprojects  .col-md-4 h2{
@@ -89,6 +107,9 @@ body {
   color: #ffffff;
   font-style: italic;
   text-align: center;
+}
+#myprojects .col-md-12 {
+  height: 0px;
 }
 
 /*=============letstalk section==================== */
@@ -116,7 +137,7 @@ height: 250px;
 #footer  .col-md-12 p{
     color: #ffffff;
     font-style: italic;
-    margin-left: 50%;
+    margin-left: 48%;
     margin-top: 6%;
     font-size: 14px;
   }
