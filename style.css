@@ -91,5 +91,17 @@ body {
   text-align: center;
 }
 
+/*=============letstalk section==================== */
+
+
+#letstalk .w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+  color: grey!important;
+  background-color: orange!important;
+}
+.w3-card-4, .w3-hover-shadow:hover {
+  box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 40px 0 rgb(0 0 0);
+}
+
+
 
 
